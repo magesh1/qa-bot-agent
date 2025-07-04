@@ -8,6 +8,6 @@ what this bot will do if user enters question it will first check document(RAG) 
 - Document loading (PDF, TXT, DOCX)
 - Text splitting
 - Vector embeddings
-- Vector stores (Chroma, FAISS)
+- Vector stores (Chroma)
 - Retrieval-based Q&A
 - Agent to use web search tool
