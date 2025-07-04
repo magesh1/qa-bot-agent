@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain_ollama
+langchain_community
+pypdf
+chromadb
+beautifulsoup4
+duckduckgo-search
